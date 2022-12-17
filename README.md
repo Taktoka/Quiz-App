@@ -14,5 +14,5 @@
 
 ### Links
 
-- Solution URL: [https://github.com/Taktoka/Quiz-App.git](https://github.com/Taktoka/Quiz-App.git)
+- Solution URL: [https://github.com/Taktoka/quiz-app.git](https://github.com/Taktoka/quiz-app.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
