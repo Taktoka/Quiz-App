@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Quiz-App
-=======
-<<<<<<< HEAD
-# Quiz-App
-=======
->>>>>>> cdbbea0 (Quiz App)
->>>>>>> 5fecd09 (Quiz -app)
+
 ## Table of contents
 
 - [Overview](#overview)
